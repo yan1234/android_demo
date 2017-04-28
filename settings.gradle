@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':lifecycle', ':fragment', ':serviceapp', ':clientapp', ':recyclerview', ':charlistview'
